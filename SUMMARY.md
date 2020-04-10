@@ -7,4 +7,7 @@
   * [worker](chapter1/babytree/worker.md)
 * [接口文档](jie-kou-wen-dang.md)
 * [常用资源地址](chang-yong-zi-yuan-di-zhi.md)
+* [源码](yuan-ma.md)
+  * [go](yuan-ma/go.md)
+    * [laag.go](yuan-ma/go/laaggo.md)
 
