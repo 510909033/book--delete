@@ -6,10 +6,9 @@ select content\_id from CompanionTaskContent where task\_id in \(select a.id fro
 
 select \* from CompanionTaskComplete order by id desc limit 5;
 
-
-
 index=gostdout-test 200328\_task\_complete\_utl task\_content\_id GetTaskContentIdList
 
-  
 
+
+index=nginx\* "/preg\_intf/index\_content/index\_banner" 
 
