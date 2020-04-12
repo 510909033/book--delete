@@ -15,5 +15,5 @@
   * [鼠标事件总结](cocos-creater/shu-biao-shi-jian-zong-jie.md)
 * [临时的记录](lin-shi-de-ji-lu.md)
   * [8.24.0-首页推荐的广告内容](lin-shi-de-ji-lu/8240shou-ye-tui-jian-de-guang-gao-nei-rong.md)
-* 常用网络文档
+* [常用网络文档](chang-yong-wang-luo-wen-dang.md)
 
