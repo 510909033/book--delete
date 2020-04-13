@@ -6,6 +6,8 @@
   * [worker](chapter1/babytree/worker.md)
   * [版本研发](chapter1/babytree/ban-ben-yan-fa.md)
     * [8.24](chapter1/babytree/ban-ben-yan-fa/824.md)
+  * [搜索相关](chapter1/babytree/sou-suo-xiang-guan.md)
+    * [mt\_goods内容](chapter1/babytree/sou-suo-xiang-guan/mtgoods-nei-rong.md)
 * [接口文档](jie-kou-wen-dang.md)
 * [常用资源地址](chang-yong-zi-yuan-di-zhi.md)
 * [源码](yuan-ma.md)
