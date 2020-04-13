@@ -20,4 +20,5 @@
 * [常用网络文档](chang-yong-wang-luo-wen-dang.md)
 * [tag说明](tagshuo-ming.md)
   * NewProject\_first\_game
+* [一些杂项命令记录](yi-xie-za-xiang-ming-ling-ji-lu.md)
 
